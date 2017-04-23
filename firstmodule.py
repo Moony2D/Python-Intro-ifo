@@ -1,4 +1,5 @@
- #This is a new module called firstownmodule
+ #This is a new module called firstmodule
+    
 def sum_squared(x, y):
     return x**2 + y**2
 
